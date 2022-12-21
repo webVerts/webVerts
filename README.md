@@ -1,6 +1,11 @@
 ### Hi there 👋
 I'm webVerts. I am the creator and maintainer of authifyNow extensions and authifyURl website.
 
+## Donate
+<p> If you find any of my projects valuable, you could help me sustain and keep it ad-free forever by donating through any of the platforms below. By sponsoring me, you're helping people more safer and secure from digital scammer and fraudsters </p>
+<a href="https://www.buymeacoffee.com/webVerts" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 243px !important;" ></a> &nbsp; <a href="https://ko-fi.com/webVerts" target="_blank"> <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" style="height: 60px !important;width: 243px !important;" alt="Buy me Ko-Fi"> </a>
+
+
 ## Support
 For any support required with payments regarding Donations given, please email to webverts@proton.me
 
