@@ -13,8 +13,7 @@ USD<br>
 [![Sponsor on Github](https://img.shields.io/badge/GitHub-Sponsors-white?style=for-the-badge&logo=Github-Sponsors&logoColor=black)](https://github.com/sponsors/webVerts) 
 
 <br>
-<a href="https://www.buymeacoffee.com/webVerts" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 243px !important;" ></a> &nbsp; <a href="https://ko-fi.com/webVerts" target="_blank"> <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" style="height: 60px !important;width: 243px !important;" alt="Buy me Ko-Fi"> </a>
-<br>
+
 
 
 
