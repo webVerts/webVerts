@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm webVerts. I am the creator and maintainer of authifyNow extensions and [authifyURL](https://authifyweb.github.io/authifyURL/) website.
+I'm webVerts. I am the creator and maintainer of authifyNow extensions and [authifyURL](https://url.authifyweb.com/) website.
 
 ## Donate
 <p> If you find any of my projects valuable, you could help me sustain and keep it ad-free forever by donating through any of the platforms below. By sponsoring me, you're helping people become, more safer and secure, from digital scammer and fraudsters </p>
