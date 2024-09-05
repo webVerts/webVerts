@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm webVerts. I am the creator and maintainer of [authiyweb](https://authifyweb.com) Projects. All authifyWeb services are free to use for general public.
+I'm webVerts. I am the creator and maintainer of [authifyweb](https://authifyweb.com) Projects. All authifyWeb services are free to use for general public.
 
 
 ## Active Projects
-[authifyURL](https://url.authifyweb.com), [authifyFame Profile Cards](https://fame.authifyweb.com), [authifyCollective Blog](https://collective.authifyweb.com), [authifyNow](https://now.authifyweb.com)
+[authifyURL](https://url.authifyweb.com), [authifyFame Profile Cards](https://fame.authifyweb.com), [authifyCollective Blog](https://collective.authifyweb.com), [authifyNow Extension](https://now.authifyweb.com)
 
 
 ## Donate
