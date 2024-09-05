@@ -1,5 +1,10 @@
 ### Hi there 👋
-I'm webVerts. I am the creator and maintainer of authifyNow extensions and [authifyURL](https://url.authifyweb.com/) website.
+I'm webVerts. I am the creator and maintainer of [authiyweb](https://authifyweb.com) Projects. All authifyWeb services are free to use for general public.
+
+
+## Active Projects
+[authifyURL](https://url.authifyweb.com), [authifyFame Profile Cards](https://fame.authifyweb.com), [authifyCollective Blog](https://collective.authifyweb.com), [authifyNow](https://now.authifyweb.com)
+
 
 ## Donate
 <p> If you find any of my projects valuable, you could help me sustain and keep it ad-free forever by donating through any of the platforms below. By sponsoring me, you're helping people become, more safer and secure, from digital scammer and fraudsters </p>
