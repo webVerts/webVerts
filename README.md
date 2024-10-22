@@ -3,7 +3,7 @@ I'm webVerts. I am the creator and maintainer of [authifyweb](https://authifyweb
 
 
 ## Active Projects
-[authifyURL](https://url.authifyweb.com), [authifyFame Profile Cards](https://fame.authifyweb.com), [authifyCollective Blog](https://collective.authifyweb.com), [authifyNow Extension](https://now.authifyweb.com)
+[authifyBrand](https://brand.authifyweb.com), [authifyFame Profile Cards](https://fame.authifyweb.com), [authifyCollective Blog](https://collective.authifyweb.com), [authifyNow Extension](https://now.authifyweb.com)
 
 
 ## Donate
