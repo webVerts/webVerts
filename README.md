@@ -21,8 +21,10 @@ USD<br>
 
 
 
+## Pinboards
 
-
+[Quick Links : webverts](https://pinboard.opera.com/view/83c4ee6c-b176-4ca9-a9af-9da5e6e7cc5b)
+[QuickLinks authifyweb](https://pinboard.opera.com/view/0e881769-62e0-4a97-8ab4-8f9159fcfd26)
 
 
 ## Support
